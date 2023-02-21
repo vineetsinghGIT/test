@@ -1,0 +1,4 @@
+Hi All,
+
+This file is created to complete masai assignment.
+I am going to push agian this file in git repo.
